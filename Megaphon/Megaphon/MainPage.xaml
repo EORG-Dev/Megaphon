@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Megaphon.MainPage">
+
+    <StackLayout VerticalOptions="End">
+        <Button Text="Start" 
+                FontSize="32"
+                x:Name="BTN_StartStop"
+                Clicked="BTN_StartStop_Clicked"
+                HeightRequest="256"
+                Margin="8,8,8,64"/>
+    </StackLayout>
+
+</ContentPage>

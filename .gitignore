@@ -1,0 +1,43 @@
+#Ingnore BIN and OBJ
+/Megaphon/Megaphon.Android/bin/**
+/Megaphon/Megaphon.Android/obj/**
+/Megaphon/Megaphon/bin/**
+/Megaphon/Megaphon/obj/**
+
+/Megaphon/Megaphon.Android/Ressources/Resource.designer.cs
+
+/Megaphon/.vs/**
+
+### Default by GitHub for Android Projects ###
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+output.json
+
+# IntelliJ
+*.iml
+.idea/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
+Megaphon/Megaphon.Android/Resources/Resource.designer.cs
